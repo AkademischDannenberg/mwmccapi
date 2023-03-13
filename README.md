@@ -1,3 +1,5 @@
+Author: David Dannenberg - https://github.com/AkademischDannenberg
+
 # Einrichtung der API auf dem lokalen Entwicklungsserver
 
 ## Voraussetzungen
